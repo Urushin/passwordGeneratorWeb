@@ -25,8 +25,8 @@ Pour exécuter ce projet localement, suivez ces étapes :
 
 1. Clonez le dépôt :
    ```bash
-   git clone <https://github.com/Urushin/passwordGeneratorWeb.git>
-   cd <https://github.com/Urushin/passwordGeneratorWeb.git>
+   git clone https://github.com/Urushin/passwordGeneratorWeb.git
+   cd https://github.com/Urushin/passwordGeneratorWeb.git
    ```
 
 2. Installez les dépendances :
