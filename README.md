@@ -1,6 +1,6 @@
 # Générateur de Mots de Passe
 
-Bienvenue dans le projet **Générateur de Mots de Passe**, une application web développée avec React et TypeScript. Cette application permet aux utilisateurs de générer des mots de passe sécurisés selon des critères personnalisés.
+Voici une application web développée avec React et TypeScript. Cette application permet aux utilisateurs de générer des mots de passe sécurisés selon des critères personnalisés.
 
 ## Fonctionnalités
 
@@ -25,8 +25,8 @@ Pour exécuter ce projet localement, suivez ces étapes :
 
 1. Clonez le dépôt :
    ```bash
-   git clone <URL_DU_DEPOT>
-   cd <NOM_DU_REPERTOIRE>
+   git clone <https://github.com/Urushin/passwordGeneratorWeb.git>
+   cd <https://github.com/Urushin/passwordGeneratorWeb.git>
    ```
 
 2. Installez les dépendances :
